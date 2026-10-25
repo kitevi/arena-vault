@@ -1,0 +1,38 @@
+Deck
+4 Voice of Victory (TDM) 33
+2 Great Forest Druid (ECL) 178
+1 Carnivorous Cultivator (FRA) 100
+1 Scavenging Ooze (FDN) 232
+1 Bristly Bill, Spine Sower (OTJ) 157
+2 Enduring Innocence (DSK) 6
+2 Surrak, Elusive Hunter (TDM) 161
+1 Mossborn Hydra (FDN) 107
+1 Sentinel of the Nameless City (LCI) 211
+1 Spinner of Souls (FDN) 112
+1 Inspiring Overseer (FDN) 496
+1 Vizier of the Menagerie (FDN) 649
+2 Gonti, Night Minister (DFT) 87
+1 Beza, the Bounding Spring (BLB) 2
+1 Elenda, Saint of Dusk (FDN) 119
+1 Yuna, Hope of Spira (FIN) 250
+1 Sephiroth, Fabled SOLDIER (FIN) 115
+4 Sheltered by Ghosts (DSK) 30
+2 Seam Rip (EOE) 34
+1 Erode (SOS) 15
+1 Shared Roots (SOA) 58
+1 No Witnesses (MKM) 27
+1 Settle the Wreckage (HOB) 26
+1 Expel the Interlopers (WOE) 13
+4 Godless Shrine (EOE) 254
+3 Bleachbone Verge (DFT) 250
+1 Shattered Sanctum (VOW) 264
+1 Deathcap Glade (VOW) 261
+1 Lush Portico (MKM) 263
+1 Temple of Plenty (FDN) 703
+1 Blossoming Sands (FDN) 260
+2 Blossoming Sands (M21) 244
+1 Overgrown Farmland (MID) 265
+2 Escape Tunnel (TMT) 184
+3 Forest (ANB) 112
+4 Plains (ANB) 115
+1 Swamp (ANB) 116

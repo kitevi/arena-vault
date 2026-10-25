@@ -11,6 +11,8 @@
   "scripts": {
     "export": "tsx src/cli.ts export",
     "db": "tsx src/cli.ts db",
+    "cards": "node scripts/cards.mjs",
+    "check-deck": "node scripts/check-deck.mjs",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

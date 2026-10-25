@@ -1,0 +1,21 @@
+Deck
+1 Heartfire Immolator (FDN) 201
+2 Plundering Pirate (LCI) 160
+2 Giant Cindermaw (FDN) 624
+2 Geological Appraiser (LCI) 150
+2 Gundabad Opportunist (HOB) 101
+1 Solemn Simulacrum (M21) 239
+1 Terror of the Peaks (M21) 164
+1 Bonehoard Dracosaur (LCI) 134
+2 Tether Technician (FRA) 94
+1 Trumpeting Carnosaur (LCI) 171
+1 Drakuseth, Maw of Flames (M20) 136
+1 Smaug, the Great Calamity (HOB) 109
+4 Burst Lightning (FDN) 192
+4 Lightning Strike (MSH) 142
+4 Scorching Dragonfire (FDN) 545
+2 Fiery Annihilation (FDN) 86
+2 Flick a Coin (WOE) 128
+1 Desolation of Smaug (HOB) 93
+1 Tectonic Hazard (LCI) 169
+25 Mountain (ANB) 114
